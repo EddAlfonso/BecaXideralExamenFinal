@@ -1,0 +1,31 @@
+id,firstName,lastName,email,gender,contactNo,estado,sport,dob
+1,Edgar,Sanchez,Edgar.Sanchez@gmail.com,Hombre,970-613-2617,Jalisco,Soccer,24/06/2012
+2,Joaquin,Rodriguez,Joaquin.Rodriguez@gmail.com,Hombre,614-319-7266,CDMX,Basquetball,18/09/2003
+3,Anibal,Ortega,Anibal.Ortega@gmail.com,Mujer,997-395-9270,Michoacan,Baseball,12/05/1994
+4,Laura,Salinas,Laura.Salinas@gmail.com,Mujer,592-563-0424,Nuevo Leon,Rugby,08/04/2001
+5,Veronica,Casas,Veronica.Casas@gmail.com,Mujer,343-984-1150,Edo Mex,Voleyball,19/10/1992
+6,Alyne,Romero,Alyne.Romero@gmail.com,Mujer,615-444-4318,Colima,Tennis,24/05/1990
+7,Brenda,Castaneda,Brenda.Castaneda@gmail.com,Mujer,149-504-2848,Durango,Soccer,01/04/2020
+8,Oscar,Aviles,Oscar.Aviles@gmail.com,Hombre,800-103-2454,CDMX,Badminton,09/05/1993
+9,Jesus,Zaragoza,Jesus.Zaragoza@gmail.com,Hombre,442-441-9317,CDMX,Ajedrez,24/10/2010
+10,Diego,Garcia,Diego.Garcia@gmail.com,Hombre,654-596-4163,Queretaro,Soccer,04/08/1999
+11,Susana,Rueda,Susana.Rueda@gmail.com,Mujer,799-950-8349,Queretaro,Basquetball,10/08/1999
+12,Erika,Perez,Erika.Perez@gmail.com,Mujer,100-307-6924,Jalisco,Baseball,20/06/2009
+13,Bernardo,Alvarez,Bernardo.Alvarez@gmail.com,Hombre,627-566-6711,Jalisco,Rugby,16/11/2012
+14,Luis,Sanchez,Luis.Sanchez@gmail.com,Hombre,326-887-9247,Veracruz,Voleyball,28/11/1990
+15,Alicia,Rodriguez,Alicia.Rodriguez@gmail.com,Mujer,928-973-7589,Merida,Tennis,12/11/2016
+16,Vanessa,Ortega,Vanessa.Ortega@gmail.com,Mujer,733-212-0386,Merida,Soccer,27/04/2012
+17,Daniel,Salinas,Daniel.Salinas@gmail.com,Hombre,231-864-6056,Oaxaca,Badminton,30/12/1994
+18,Noe,Casas,Noe.Casas@gmail.com,Hombre,641-445-0261,Oaxaca,Ajedrez,22/02/2015
+19,Maria,Romero,Maria.Romero@gmail.com,Mujer,222-435-3367,Edo Mex,Soccer,19/01/2011
+20,Barbara,Castaneda,Barbara.Castaneda@gmail.com,Mujer,415-111-0479,Sinaloa,Basquetball,13/11/2005
+21,Ricardo,Aviles,Ricardo.Aviles@gmail.com,Hombre,191-884-4571,Guerrero,Baseball,16/12/2014
+22,Belen,Zaragoza,Belen.Zaragoza@gmail.com,Mujer,257-206-7432,Guerrero,Rugby,23/01/2013
+23,Aide,Garcia,Aide.Garcia@gmail.com,Mujer,869-144-1196,Jalisco,Voleyball,06/08/2011
+24,Jair,Rueda,Jair.Rueda@gmail.com,Hombre,458-114-4414,Veracruz,Tennis,14/04/2017
+25,Carlos,Perez,Carlos.Perez@gmail.com,Hombre,844-259-6129,Veracruz,Soccer,29/08/2016
+26,Berenice,Alvarez,Berenice.Alvarez@gmail.com,Mujer,712-218-2506,Michoacan,Badminton,02/04/1993
+27,Isaac,Sanchez,Isaac.Sanchez@gmail.com,Hombre,738-533-1171,Nuevo Leon,Ajedrez,15/07/2006
+28,Keila,Rodriguez,Keila.Rodriguez@gmail.com,Mujer,582-122-9264,Nuevo Leon,Soccer,16/10/1998
+29,Martin,Ortega,Martin.Ortega@gmail.com,Hombre,320-144-8534,CDMX,Basquetball,20/07/2000
+30,Lesli,Salinas,Lesli.Salinas@gmail.com,Mujer,443-819-1410,CDMX,Baseball,17/11/2002
